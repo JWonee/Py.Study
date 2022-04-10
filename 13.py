@@ -18,3 +18,5 @@ B2 = int(B_str[2])
 B = int(B_str)
 
 print( A*B2 , A*B1, A*B0 , A*B , sep = '\n' )
+
+# int , str 구분 주의!
