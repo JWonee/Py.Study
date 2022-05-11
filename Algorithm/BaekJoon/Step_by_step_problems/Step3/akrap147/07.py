@@ -4,7 +4,7 @@
 
 x=int(input())
 for i in range(x):
-  a,b=map(int,input().split())
+  a,b=map(int,input().split()) ''' a, b에 map 함수를 이용하여 각각을 지정해주었다.'''
   print(f"Case #{i+1}: {a+b}" )
   
 # fstring을 사용하는게 가장중요하다
